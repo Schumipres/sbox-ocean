@@ -1,0 +1,9 @@
+{
+  "WindSpeed": 13,
+  "SignificantHeight": 8,
+  "Choppiness": 1.8,
+  "Scatter": 1,
+  "CrestFoam": 2,
+  "__references": [],
+  "__version": 0
+}

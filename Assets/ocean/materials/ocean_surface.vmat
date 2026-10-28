@@ -1,0 +1,4 @@
+Layer0
+{
+	shader "ocean/shaders/ocean_surface.shader"
+}
