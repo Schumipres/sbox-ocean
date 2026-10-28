@@ -1,10 +1,10 @@
 {
-  "Title": "Ocean",
+  "Title": "FFT Ocean",
   "Type": "library",
-  "Org": "local",
+  "Org": "schumi",
   "Ident": "ocean",
   "Schema": 1,
-  "IncludeSourceFiles": false,
+  "IncludeSourceFiles": true,
   "Resources": null,
   "PackageReferences": [],
   "EditorReferences": null,
